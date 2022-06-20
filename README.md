@@ -1,6 +1,6 @@
 # In few words about
 
-Here you can find sketches about different topics:
+Here you can find sketches on different topics:
 - treoretical discriptions of some problems,
 - implimentations aspects.
 
